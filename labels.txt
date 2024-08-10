@@ -1,0 +1,5 @@
+0 Bakterial dog'
+1 Erta kuyish kasalligi
+2 Sog'lom
+3 Kechki kuyish kasalligi
+4 Barg chirishi
